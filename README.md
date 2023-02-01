@@ -1,10 +1,5 @@
-# Reading-Notes
-Notes for Code School
+# DJ Reading Notes Repo
 
-## [Class 01](/Reading-Notes/Class01).
+## [Course 102](/Reading-Notes/102)
 
-Class 01 - Markdown
-
-## Class 02
-
-Class 02 Stuff
+## Course 201
